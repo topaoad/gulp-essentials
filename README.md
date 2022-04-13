@@ -12,3 +12,5 @@ $ npx gulp
 # generate static project
 $ npx gulp build
 ```
+
+#git の確認中
